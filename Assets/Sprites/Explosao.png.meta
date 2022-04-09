@@ -1,9 +1,38 @@
 fileFormatVersion: 2
 guid: 4e5a48d45dc9377418fb72f2ff694d78
-timeCreated: 1647539776
+timeCreated: 1649522256
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Explosao_0
+    21300002: Explosao_1
+    21300004: Explosao_2
+    21300006: Explosao_3
+    21300008: Explosao_4
+    21300010: Explosao_5
+    21300012: Explosao_6
+    21300014: Explosao_7
+    21300016: Explosao_8
+    21300018: Explosao_9
+    21300020: Explosao_10
+    21300022: Explosao_11
+    21300024: Explosao_12
+    21300026: Explosao_13
+    21300028: Explosao_14
+    21300030: Explosao_15
+    21300032: Explosao_16
+    21300034: Explosao_17
+    21300036: Explosao_18
+    21300038: Explosao_19
+    21300040: Explosao_20
+    21300042: Explosao_21
+    21300044: Explosao_22
+    21300046: Explosao_23
+    21300048: Explosao_24
+    21300050: Explosao_25
+    21300052: Explosao_26
+    21300054: Explosao_27
+    21300056: Explosao_28
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +63,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +87,147 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Explosao_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosao_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 6
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosao_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 53
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosao_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 14
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosao_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 17
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosao_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosao_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 12
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosao_7
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 7
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosao_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 5
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosao_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 8
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
