@@ -51,8 +51,10 @@
      <Compile Include="Assets\Scripts\CameraPrincipal.cs" />
      <Compile Include="Assets\Scripts\Colisor.cs" />
      <Compile Include="Assets\Scripts\Explosao.cs" />
+     <Compile Include="Assets\Scripts\Inimigo.cs" />
      <Compile Include="Assets\Scripts\Instanciador.cs" />
      <Compile Include="Assets\Scripts\Jogador.cs" />
+     <Compile Include="Assets\Scripts\Projetil.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.0f3/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

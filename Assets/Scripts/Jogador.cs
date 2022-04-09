@@ -84,4 +84,36 @@ public class Jogador : MonoBehaviour {
 		}
 
 	}
+
+	void GanharVida(Collider2D outro)
+	{
+		if (outro.tag == "Energia")
+		{
+			/*if (estado.ValorAtual < estado.MaximoValor)
+			{
+				estado.ValorAtual += 2;
+				Destroy(outro.gameObject);
+			}*/
+		}
+	}
+
+	void PerderVida(Collider2D outro)
+	{
+		if (outro.tag == "Asteroide" || outro.tag == "Inimigo")
+		{
+			/*if (estado.ValorAtual > 0)
+			{
+				estado.ValorAtual -= 10;
+				animator.SetTrigger("Dano");
+
+			}
+
+			if (estado.ValorAtual <= 0)
+			{
+				Instantiate(prefabExplosao, transform.position, transform.rotation);
+				Destroy(gameObject);
+				Mensagens.gameOver = true;
+			}*/
+		}
+	}
 }
